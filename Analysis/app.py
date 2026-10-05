@@ -141,11 +141,11 @@ st.markdown(
 # =========================================================
 
 preprocessor = joblib.load(
-    "supply_chain_preprocessor.pkl"
+    "Analysis/supply_chain_preprocessor.pkl"
 )
 
 xgb_model = joblib.load(
-    "supply_chain_xgboost.pkl"
+    "Analysis/supply_chain_xgboost.pkl"
 )
 
 

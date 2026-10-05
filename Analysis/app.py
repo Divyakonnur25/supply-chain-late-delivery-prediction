@@ -547,12 +547,3 @@ if predict_button:
 # FOOTER
 # =========================================================
 
-st.divider()
-
-st.caption(
-    "📦 Late Delivery Risk Prediction"
-)
-
-st.caption(
-    "Built with Python • XGBoost • Streamlit"
-)

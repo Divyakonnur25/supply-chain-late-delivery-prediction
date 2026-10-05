@@ -154,7 +154,7 @@ xgb_model = joblib.load(
 # =========================================================
 
 with open(
-    "order_countries.txt",
+    "Analysis/order_countries.txt",
     "r",
     encoding="utf-8"
 ) as f:
